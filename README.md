@@ -1,1 +1,1 @@
-This is my project 
+"Welcome to UNI-DOST, your ultimate destination for comprehensive and interactive learning! This website offers you an introducation to the college you want to enroll into the faculty, facilities, courses etc. This website basically gives you the pathway to understand your college journey.
